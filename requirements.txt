@@ -6,8 +6,6 @@ pandas==1.5.3
 pandas_datareader==0.10.0
 plotly==5.9.0
 pygame==2.5.0
-pymongo==3.12.3
-pymongo==4.4.0
 Requests==2.31.0
 streamlit==1.24.1
 yfinance==0.2.24
