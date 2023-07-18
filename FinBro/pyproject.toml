@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "finbro"
+version = "0.1.0"
+description = "Finance Bro Assistant"
+authors = ["Kareem"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+djangorestframework = "^3.14.0"
+djongo = "^1.3.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
