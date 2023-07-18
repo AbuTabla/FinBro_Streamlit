@@ -190,7 +190,7 @@ mappings = {
     'bye': bye
 }
 assistant = GenericAssistant('intents.json', mappings, "Jafire")
-assistant.load_model('Jafire','./data/ML_Models/')
+assistant.load_model('./data/ML_Models/Jafire')
 
 # Define Streamlit layout
 st.title('Financial Assistant Chatbot')
