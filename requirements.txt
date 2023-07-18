@@ -1,11 +1,6 @@
 Django==4.1.10
-matplotlib==3.7.0
-mplfinance==0.12.9b7
 neuralintents==0.0.4
 pandas==1.5.3
-pandas_datareader==0.10.0
 plotly==5.9.0
-pygame==2.5.0
-Requests==2.31.0
 streamlit==1.24.1
 yfinance==0.2.24
